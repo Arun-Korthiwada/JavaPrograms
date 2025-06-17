@@ -11,5 +11,6 @@ public class TablePrintUsingPrintf {
             System.out.print("\n");
 
         }
+        scanner.close();
     }
 }
